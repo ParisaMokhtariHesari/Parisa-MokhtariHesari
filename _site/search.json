@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Postdoctoral Associate\nEpidemiologist | Biostatistician | Causal Inference Researcher\n\nWelcome to my academic website.\nI am a Postdoctoral Associate at Western University. My research focuses on causal inference, health equity, mental health, and cancer epidemiology. I develop and apply statistical methods to improve the validity and impact of health research.\n\n\n\nCausal Inference\nBiostatistics\nMental Health\nCancer Epidemiology\nHealth Equity\nSurvival Analysis\n\n\n\n\nEmail: your.email@uwo.ca\nGitHub: https://github.com/yourusername\nGoogle Scholar: https://scholar.google.ca/citations?hl=en&user=OgRCmEwAAAAJ&view_op=list_works\nLinkedIn: https://www.linkedin.com/in/parisa-mokhtari-hesari-29975357/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "",
+    "text": "Causal Inference\nBiostatistics\nMental Health\nCancer Epidemiology\nHealth Equity\nSurvival Analysis"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: your.email@uwo.ca\nGitHub: https://github.com/yourusername\nGoogle Scholar: https://scholar.google.ca/citations?hl=en&user=OgRCmEwAAAAJ&view_op=list_works\nLinkedIn: https://www.linkedin.com/in/parisa-mokhtari-hesari-29975357/"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "# Research\nMy research focuses on developing and applying statistical and epidemiological methods to improve the validity, equity, and impact of health research. I work at the intersection of **causal inference, biostatistics, and epidemiology**, with applications in mental health, cancer epidemiology, and population health."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "teaching",
+    "section": "",
+    "text": "# Research\nMy research focuses on developing and applying statistical and epidemiological methods to improve the validity, equity, and impact of health research. I work at the intersection of **causal inference, biostatistics, and epidemiology**, with applications in mental health, cancer epidemiology, and population health."
+  },
+  {
+    "objectID": "teaching.html#research-themes",
+    "href": "teaching.html#research-themes",
+    "title": "teaching",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n1. Causal Inference and Methodological Development\nI develop and apply causal inference methods to address complex questions in observational and experimental studies. My methodological interests include:\n\nCausal mediation analysis\nTime-to-event outcomes\nTarget trial emulation\nLongitudinal data analysis\nMethods for reducing bias in health research\n\n\n\n\n2. Health Equity and Representativeness in Research\nA central focus of my work is understanding and improving equity in health research participation and evidence generation.\nMy research examines:\n\nRepresentation of underserved populations in health studies\nSelection bias and participation bias\nExternal validity and generalizability of research findings\nRecruitment and retention strategies to improve equitable participation\n\n\n\n\n3. Cancer Epidemiology and Survival Analysis\nMy doctoral research focused on causal mediation analysis of time-to-event outcomes in the context of intersectionality in breast cancer.\nMy work integrates:\n\nEpidemiologic study designs\nSurvival analysis\nCausal diagrams (DAGs)\nMediation analysis\nIntersectionality approaches"
+  },
+  {
+    "objectID": "teaching.html#current-projects",
+    "href": "teaching.html#current-projects",
+    "title": "teaching",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nMapping Representativeness in Youth Mental Health Research\nThis scoping review examines how representativeness is defined, assessed, and addressed in youth mental health studies.\nThe project aims to identify methodological gaps and provide guidance for improving equitable research practices.\n\n\n\nCausal Mediation Analysis for Time-to-Event Outcomes\nDeveloping statistical approaches for understanding mechanisms linking exposures, mediators, and health outcomes when outcomes are time-dependent."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "research.html#quarto",
+    "href": "research.html#quarto",
+    "title": "Research",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "research.html#running-code",
+    "href": "research.html#running-code",
+    "title": "Research",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "research.html#section",
+    "href": "research.html#section",
+    "title": "Research",
+    "section": "",
+    "text": "# Research\nMy research focuses on developing and applying statistical and epidemiological methods to improve the validity, equity, and impact of health research. I work at the intersection of **causal inference, biostatistics, and epidemiology**, with applications in mental health, cancer epidemiology, and population health."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n1. Causal Inference and Methodological Development\nI develop and apply causal inference methods to address complex questions in observational and experimental studies. My methodological interests include:\n\nCausal mediation analysis\nTime-to-event outcomes\nTarget trial emulation\nLongitudinal data analysis\nMethods for reducing bias in health research\n\n\n\n\n2. Health Equity and Representativeness in Research\nA central focus of my work is understanding and improving equity in health research participation and evidence generation.\nMy research examines:\n\nRepresentation of underserved populations in health studies\nSelection bias and participation bias\nExternal validity and generalizability of research findings\nRecruitment and retention strategies to improve equitable participation\n\n\n\n\n3. Cancer Epidemiology and Survival Analysis\nMy doctoral research focused on causal mediation analysis of time-to-event outcomes in the context of intersectionality in breast cancer.\nMy work integrates:\n\nEpidemiologic study designs\nSurvival analysis\nCausal diagrams (DAGs)\nMediation analysis\nIntersectionality approaches"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nMapping Representativeness in Youth Mental Health Research\nThis scoping review examines how representativeness is defined, assessed, and addressed in youth mental health studies.\nThe project aims to identify methodological gaps and provide guidance for improving equitable research practices.\n\n\n\nCausal Mediation Analysis for Time-to-Event Outcomes\nDeveloping statistical approaches for understanding mechanisms linking exposures, mediators, and health outcomes when outcomes are time-dependent."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nUniversity of Toronto Scarborough\n**Sessional Lecturer**\n**STAC33: Introduction to Applied Statistics** Winter 2026\nCourse topics include:\n\nStatistical programming in R\nData visualization\nExploratory data analysis\nStatistical inference\nRegression modelling\nInterpretation of statistical results\n\n\n\n\nWestern University\n**Sessional Lecturer**\nCourses taught:\n**SS2858: Statistics for Social Science** Summer 2025\n**SS2857: Probability and Statistics I** Fall 2025\n**SS3657: Intermediate Probability** Fall 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-approach",
+    "href": "teaching.html#teaching-approach",
+    "title": "Teaching",
+    "section": "Teaching Approach",
+    "text": "Teaching Approach\nMy teaching approach combines:\n\nConceptual Understanding\nI emphasize understanding why statistical methods work rather than only memorizing formulas.\n\n\nPractical Application\nStudents learn through hands-on analysis using statistical software, particularly R, and real-world datasets.\n\n\nInclusive Learning Environment\nI aim to create an environment where students from diverse backgrounds feel supported in developing quantitative skills."
+  },
+  {
+    "objectID": "teaching.html#teaching-materials",
+    "href": "teaching.html#teaching-materials",
+    "title": "Teaching",
+    "section": "Teaching Materials",
+    "text": "Teaching Materials\nExamples of materials and resources:\n\nLecture notes\nR programming examples\nStatistical coding demonstrations\nData analysis assignments\nCourse projects"
+  },
+  {
+    "objectID": "teaching.html#student-feedback",
+    "href": "teaching.html#student-feedback",
+    "title": "Teaching",
+    "section": "Student Feedback",
+    "text": "Student Feedback\nStudent evaluations and teaching materials are available upon request."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am passionate about teaching statistics, epidemiology, and quantitative methods. My teaching philosophy emphasizes building conceptual understanding, developing statistical reasoning, and connecting methodological principles with real-world applications."
+  },
+  {
+    "objectID": "Teaching.html#teaching-experience",
+    "href": "Teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nUniversity of Toronto Scarborough\n**Sessional Lecturer**\n**STAC33: Introduction to Applied Statistics** Winter 2026\nCourse topics include:\n\nStatistical programming in R\nData visualization\nExploratory data analysis\nStatistical inference\nRegression modelling\nInterpretation of statistical results\n\n\n\n\nWestern University\n**Sessional Lecturer**\nCourses taught:\n**SS2858: Statistics for Social Science** Summer 2025\n**SS2857: Probability and Statistics I** Fall 2025\n**SS3657: Intermediate Probability** Fall 2025"
+  },
+  {
+    "objectID": "Teaching.html#teaching-approach",
+    "href": "Teaching.html#teaching-approach",
+    "title": "Teaching",
+    "section": "Teaching Approach",
+    "text": "Teaching Approach\nMy teaching approach combines:\n\nConceptual Understanding\nI emphasize understanding why statistical methods work rather than only memorizing formulas.\n\n\nPractical Application\nStudents learn through hands-on analysis using statistical software, particularly R, and real-world datasets.\n\n\nInclusive Learning Environment\nI aim to create an environment where students from diverse backgrounds feel supported in developing quantitative skills."
+  },
+  {
+    "objectID": "Teaching.html#teaching-materials",
+    "href": "Teaching.html#teaching-materials",
+    "title": "Teaching",
+    "section": "Teaching Materials",
+    "text": "Teaching Materials\nExamples of materials and resources:\n\nLecture notes\nR programming examples\nStatistical coding demonstrations\nData analysis assignments\nCourse projects"
+  },
+  {
+    "objectID": "Teaching.html#student-feedback",
+    "href": "Teaching.html#student-feedback",
+    "title": "Teaching",
+    "section": "Student Feedback",
+    "text": "Student Feedback\nStudent evaluations and teaching materials are available upon request."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on developing and applying statistical and epidemiological methods to improve the validity, equity, and impact of health research. I work at the intersection of **causal inference, biostatistics, and epidemiology**, with applications in mental health, cancer epidemiology, and population health."
+  },
+  {
+    "objectID": "Research.html#research-themes",
+    "href": "Research.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n1. Causal Inference and Methodological Development\nI develop and apply causal inference methods to address complex questions in observational and experimental studies. My methodological interests include:\n\nCausal mediation analysis\nTime-to-event outcomes\nTarget trial emulation\nLongitudinal data analysis\nMethods for reducing bias in health research\n\n\n\n\n2. Health Equity and Representativeness in Research\nA central focus of my work is understanding and improving equity in health research participation and evidence generation.\nMy research examines:\n\nRepresentation of underserved populations in health studies\nSelection bias and participation bias\nExternal validity and generalizability of research findings\nRecruitment and retention strategies to improve equitable participation\n\n\n\n\n3. Cancer Epidemiology and Survival Analysis\nMy doctoral research focused on causal mediation analysis of time-to-event outcomes in the context of intersectionality in breast cancer.\nMy work integrates:\n\nEpidemiologic study designs\nSurvival analysis\nCausal diagrams (DAGs)\nMediation analysis\nIntersectionality approaches"
+  },
+  {
+    "objectID": "Research.html#current-projects",
+    "href": "Research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nMapping Representativeness in Youth Mental Health Research\nThis scoping review examines how representativeness is defined, assessed, and addressed in youth mental health studies.\nThe project aims to identify methodological gaps and provide guidance for improving equitable research practices.\n\n\n\nCausal Mediation Analysis for Time-to-Event Outcomes\nDeveloping statistical approaches for understanding mechanisms linking exposures, mediators, and health outcomes when outcomes are time-dependent."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "## Research Areas\n\nCausal inference\n(Bio)Statistics\nSurvival analysis\nCancer epidemiology\nHealth equity\nMental health research\nSystematic reviews and evidence synthesis\n\nMy research publications span causal inference, epidemiology, cancer research, health-related quality of life, systematic reviews, and evidence synthesis.\nFor a complete and updated publication record, please visit my [Google Scholar profile]."
+  },
+  {
+    "objectID": "Publications.html#quarto",
+    "href": "Publications.html#quarto",
+    "title": "Publications",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Publications.html#running-code",
+    "href": "Publications.html#running-code",
+    "title": "Publications",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Publications.html#section",
+    "href": "Publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "## Research Areas\n\nCausal inference\n(Bio)Statistics\nSurvival analysis\nCancer epidemiology\nHealth equity\nMental health research\nSystematic reviews and evidence synthesis\n\nMy research publications span causal inference, epidemiology, cancer research, health-related quality of life, systematic reviews, and evidence synthesis.\nFor a complete and updated publication record, please visit my [Google Scholar profile]."
+  },
+  {
+    "objectID": "Publications.html#peer-reviewed-publications",
+    "href": "Publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n2025\n**Hesari PM**, Drexler J, Lizotte DJ, Bauer GR. **Ethnoracial disparities in breast cancer treatment time and survival: A systematic review with a DAG-based causal model.** *Epidemiologic Reviews*, 2025.\n\n\n\n2024\nSheikhi Z, Yarmohammadi H, Soltanipur M, **Mokhtari-Hesari P**, Fahimi S, Montazeri A, Heydarirad G. **Effect of chamomile and olive oils on volume, range of motion, and quality of life in breast cancer-related lymphedema: A randomized controlled trial.** *Lymphatic Research and Biology*, 2024.\n\n\n\n2023\nMontazeri A, Mohammadi S, **Hesari PM**, Yarmohammadi H, Bahabadi MR, Naghizadeh Moghari F. **Exposure to COVID-19 news on social media and consequent psychological distress and potential behavioral change.** *Scientific Reports*, 2023.\n\nMontazeri A, Mohammadi S, **Hesari PM**, et al. **Preliminary guideline for reporting bibliometric reviews of the biomedical literature (BIBLIO): minimum requirements.** *Systematic Reviews*, 2023.\n\n\n\n2021\nMansouri S, **Mokhtari-Hesari P**, Naghavi-al-Hosseini F, et al. **Evaluating human epidermal growth factor receptor 2 roles in the efficacy of tamoxifen treatment in breast cancer: A systematic review.** *Pharmacological Reports*, 2021.\n\n\n\n2020\n**Mokhtari-Hesari P**, Montazeri A. **Health-related quality of life in breast cancer patients: Review of reviews from 2008 to 2018.** *Health and Quality of Life Outcomes*, 18, 2020.\n\nSheikhi-Mobarakeh Z, Yarmohammadi H, **Mokhtari-Hesari P**, et al. **Herbs as old potential treatments for lymphedema management: A systematic review.** *Complementary Therapies in Medicine*, 2020.\n\n\n\n2019\nMobarakeh ZS, **Mokhtari-Hesari P**, Lotfi-Tokaldany M, et al. **Combined decongestive therapy and reduction of pain and heaviness in patients with breast cancer-related lymphedema.** *Supportive Care in Cancer*, 27(10), 3805–3811, 2019.\n\nMansouri S, **Mokhtari-Hesari P**, Naghavi-al-Hosseini F, Farahmand L, Majidzadeh-A K. **The prognostic value of circulating tumor cells in primary breast cancer prior to systemic therapy: A systematic review.** *Current Stem Cell Research & Therapy*, 2019.\n\n\n\n2018\nMansouri S, Esmaeili R, Kaviani A, Rezaei M, Abdoli N, **Mokhtari-Hesari P**, Farahmand L, Majidzadeh-A K. **The interaction between the expression of proliferative biomarkers and clinical characteristics in breast cancer.** *Multidisciplinary Cancer Investigation*, 2018."
+  },
+  {
+    "objectID": "Publications.html#poster-presentations",
+    "href": "Publications.html#poster-presentations",
+    "title": "Publications",
+    "section": "Poster Presentations",
+    "text": "Poster Presentations\n**Sparse data challenges in intersectional mediation analysis: A simulation study.** Joint Statistical Meeting (JSM), American Statistical Association (ASA), Toronto, Canada, 2023.\n\n**Variations in time to breast cancer treatment initiation and survival across ethnoracial groups: A DAG-based systematic review.** Canadian Society for Epidemiology and Biostatistics (CSEB), Halifax, Canada, 2023.\n\n**Racial disparity and time to treatment initiation effects on survival differences in breast cancer: A DAG-based review protocol for a systematic review of cohort studies.** 13th European Breast Cancer Conference, Barcelona, Spain, 2022.\n\n**Caregivers and their effect on health-related quality of life in elderly breast cancer patients.** 11th European Breast Cancer Conference, Barcelona, Spain, 2018.\n\n**Early reduction of pain, heaviness and paresthesia following combined decongestive therapy in patients with breast cancer-related lymphedema.** 11th European Breast Cancer Conference, Barcelona, Spain, 2018."
+  },
+  {
+    "objectID": "Publications.html#phd-thesis",
+    "href": "Publications.html#phd-thesis",
+    "title": "Publications",
+    "section": "PhD Thesis",
+    "text": "PhD Thesis\n**Mokhtari Hesari P. (2025).** *Causal Mediation Analysis of Time-to-Event Data in the Context of Intersectionality in Breast Cancer.* PhD Thesis, Western University."
+  },
+  {
+    "objectID": "Publications.html#msc-thesis",
+    "href": "Publications.html#msc-thesis",
+    "title": "Publications",
+    "section": "MSc Thesis",
+    "text": "MSc Thesis\n**Mokhtari Hesari P. (2013).** *Estimation of Transition Probabilities and Hazard Function in Semi-Markov Multi-State Stochastic Processes.* MSc Thesis, Tehran University of Medical Sciences."
+  }
+]

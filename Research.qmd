@@ -1,0 +1,62 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+My research focuses on developing and applying statistical and epidemiological methods to improve the validity, equity, and impact of health research. I work at the intersection of \*\*causal inference, biostatistics, and epidemiology\*\*, with applications in mental health, cancer epidemiology, and population health.
+
+## Research Themes
+
+### 1. Causal Inference and Methodological Development
+
+I develop and apply causal inference methods to address complex questions in observational and experimental studies. My methodological interests include:
+
+-   Causal mediation analysis
+-   Time-to-event outcomes
+-   Target trial emulation
+-   Longitudinal data analysis
+-   Methods for reducing bias in health research
+
+------------------------------------------------------------------------
+
+### 2. Health Equity and Representativeness in Research
+
+A central focus of my work is understanding and improving equity in health research participation and evidence generation.
+
+My research examines:
+
+-   Representation of underserved populations in health studies
+-   Selection bias and participation bias
+-   External validity and generalizability of research findings
+-   Recruitment and retention strategies to improve equitable participation
+
+------------------------------------------------------------------------
+
+### 3. Cancer Epidemiology and Survival Analysis
+
+My doctoral research focused on causal mediation analysis of time-to-event outcomes in the context of intersectionality in breast cancer.
+
+My work integrates:
+
+-   Epidemiologic study designs
+-   Survival analysis
+-   Causal diagrams (DAGs)
+-   Mediation analysis
+-   Intersectionality approaches
+
+------------------------------------------------------------------------
+
+## Current Projects
+
+### Mapping Representativeness in Youth Mental Health Research
+
+This scoping review examines how representativeness is defined, assessed, and addressed in youth mental health studies.
+
+The project aims to identify methodological gaps and provide guidance for improving equitable research practices.
+
+------------------------------------------------------------------------
+
+### Causal Mediation Analysis for Time-to-Event Outcomes
+
+Developing statistical approaches for understanding mechanisms linking exposures, mediators, and health outcomes when outcomes are time-dependent.

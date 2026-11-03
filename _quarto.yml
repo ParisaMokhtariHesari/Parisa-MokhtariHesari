@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Parisa Hesari"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: about.qmd
+        text: About
+
+      - href: Research.qmd
+        text: Research
+
+      - href: Publications.qmd
+        text: Publications
+
+      - href: Teaching.qmd
+        text: Teaching
+
+      - href: software.qmd
+        text: Software
+
+      - href: cv.qmd
+        text: CV
+
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual

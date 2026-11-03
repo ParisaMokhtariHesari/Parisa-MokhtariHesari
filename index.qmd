@@ -1,0 +1,34 @@
+---
+title: "Home"
+---
+
+# Parisa M. Hesari, PhD
+
+**Postdoctoral Associate**  
+**Epidemiologist | Biostatistician | Causal Inference Researcher**
+
+---
+
+Welcome to my academic website.
+
+I am a Postdoctoral Associate at Western University. My research focuses on causal inference, health equity, mental health, and cancer epidemiology. I develop and apply statistical methods to improve the validity and impact of health research.
+
+## Research Interests
+
+- Causal Inference
+- Biostatistics
+- Mental Health
+- Cancer Epidemiology
+- Health Equity
+- Survival Analysis
+
+
+## Contact
+
+Email: your.email@uwo.ca
+
+GitHub: https://github.com/yourusername
+
+Google Scholar: https://scholar.google.ca/citations?hl=en&user=OgRCmEwAAAAJ&view_op=list_works
+
+LinkedIn: https://www.linkedin.com/in/parisa-mokhtari-hesari-29975357/

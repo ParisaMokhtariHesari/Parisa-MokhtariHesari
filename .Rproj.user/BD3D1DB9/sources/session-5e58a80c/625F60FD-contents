@@ -1,0 +1,11 @@
+# my website
+
+
+git init
+git add .
+git commit -m "Initial website"
+git branch -M main
+git remote add origin https://github.com/ParisaMokhtariHesari/Parisa-MokhtariHesari.git
+git push -u origin main
+
+git config --global user.email "parisamokhtari61@gmail.com"

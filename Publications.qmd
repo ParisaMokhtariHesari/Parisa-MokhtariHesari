@@ -1,0 +1,115 @@
+---
+title: "Publications"
+format: html
+editor: visual
+---
+
+## 
+
+\## Research Areas
+
+-   Causal inference
+-   (Bio)Statistics
+-   Survival analysis
+-   Cancer epidemiology
+-   Health equity
+-   Mental health research
+-   Systematic reviews and evidence synthesis
+
+My research publications span causal inference, epidemiology, cancer research, health-related quality of life, systematic reviews, and evidence synthesis.
+
+For a complete and updated publication record, please visit my [\[Google Scholar profile\]](https://scholar.google.ca/citations?hl=en&user=OgRCmEwAAAAJ&view_op=list_works).
+
+------------------------------------------------------------------------
+
+## Peer-Reviewed Publications
+
+### 2025
+
+\*\*Hesari PM\*\*, Drexler J, Lizotte DJ, Bauer GR. \*\*Ethnoracial disparities in breast cancer treatment time and survival: A systematic review with a DAG-based causal model.\*\* \*Epidemiologic Reviews\*, 2025.
+
+------------------------------------------------------------------------
+
+### 2024
+
+Sheikhi Z, Yarmohammadi H, Soltanipur M, \*\*Mokhtari-Hesari P\*\*, Fahimi S, Montazeri A, Heydarirad G. \*\*Effect of chamomile and olive oils on volume, range of motion, and quality of life in breast cancer-related lymphedema: A randomized controlled trial.\*\* \*Lymphatic Research and Biology\*, 2024.
+
+------------------------------------------------------------------------
+
+### 2023
+
+Montazeri A, Mohammadi S, \*\*Hesari PM\*\*, Yarmohammadi H, Bahabadi MR, Naghizadeh Moghari F. \*\*Exposure to COVID-19 news on social media and consequent psychological distress and potential behavioral change.\*\* \*Scientific Reports\*, 2023.
+
+------------------------------------------------------------------------
+
+Montazeri A, Mohammadi S, \*\*Hesari PM\*\*, et al. \*\*Preliminary guideline for reporting bibliometric reviews of the biomedical literature (BIBLIO): minimum requirements.\*\* \*Systematic Reviews\*, 2023.
+
+------------------------------------------------------------------------
+
+### 2021
+
+Mansouri S, \*\*Mokhtari-Hesari P\*\*, Naghavi-al-Hosseini F, et al. \*\*Evaluating human epidermal growth factor receptor 2 roles in the efficacy of tamoxifen treatment in breast cancer: A systematic review.\*\* \*Pharmacological Reports\*, 2021.
+
+------------------------------------------------------------------------
+
+### 2020
+
+\*\*Mokhtari-Hesari P\*\*, Montazeri A. \*\*Health-related quality of life in breast cancer patients: Review of reviews from 2008 to 2018.\*\* \*Health and Quality of Life Outcomes\*, 18, 2020.
+
+------------------------------------------------------------------------
+
+Sheikhi-Mobarakeh Z, Yarmohammadi H, \*\*Mokhtari-Hesari P\*\*, et al. \*\*Herbs as old potential treatments for lymphedema management: A systematic review.\*\* \*Complementary Therapies in Medicine\*, 2020.
+
+------------------------------------------------------------------------
+
+### 2019
+
+Mobarakeh ZS, \*\*Mokhtari-Hesari P\*\*, Lotfi-Tokaldany M, et al. \*\*Combined decongestive therapy and reduction of pain and heaviness in patients with breast cancer-related lymphedema.\*\* \*Supportive Care in Cancer\*, 27(10), 3805–3811, 2019.
+
+------------------------------------------------------------------------
+
+Mansouri S, \*\*Mokhtari-Hesari P\*\*, Naghavi-al-Hosseini F, Farahmand L, Majidzadeh-A K. \*\*The prognostic value of circulating tumor cells in primary breast cancer prior to systemic therapy: A systematic review.\*\* \*Current Stem Cell Research & Therapy\*, 2019.
+
+------------------------------------------------------------------------
+
+### 2018
+
+Mansouri S, Esmaeili R, Kaviani A, Rezaei M, Abdoli N, \*\*Mokhtari-Hesari P\*\*, Farahmand L, Majidzadeh-A K. \*\*The interaction between the expression of proliferative biomarkers and clinical characteristics in breast cancer.\*\* \*Multidisciplinary Cancer Investigation\*, 2018.
+
+------------------------------------------------------------------------
+
+# Conference Presentations
+
+## Poster Presentations
+
+\*\*Sparse data challenges in intersectional mediation analysis: A simulation study.\*\* Joint Statistical Meeting (JSM), American Statistical Association (ASA), Toronto, Canada, 2023.
+
+------------------------------------------------------------------------
+
+\*\*Variations in time to breast cancer treatment initiation and survival across ethnoracial groups: A DAG-based systematic review.\*\* Canadian Society for Epidemiology and Biostatistics (CSEB), Halifax, Canada, 2023.
+
+------------------------------------------------------------------------
+
+\*\*Racial disparity and time to treatment initiation effects on survival differences in breast cancer: A DAG-based review protocol for a systematic review of cohort studies.\*\* 13th European Breast Cancer Conference, Barcelona, Spain, 2022.
+
+------------------------------------------------------------------------
+
+\*\*Caregivers and their effect on health-related quality of life in elderly breast cancer patients.\*\* 11th European Breast Cancer Conference, Barcelona, Spain, 2018.
+
+------------------------------------------------------------------------
+
+\*\*Early reduction of pain, heaviness and paresthesia following combined decongestive therapy in patients with breast cancer-related lymphedema.\*\* 11th European Breast Cancer Conference, Barcelona, Spain, 2018.
+
+------------------------------------------------------------------------
+
+# Theses
+
+## PhD Thesis
+
+\*\*Mokhtari Hesari P. (2025).\*\* \*Causal Mediation Analysis of Time-to-Event Data in the Context of Intersectionality in Breast Cancer.\* PhD Thesis, Western University.
+
+------------------------------------------------------------------------
+
+## MSc Thesis
+
+\*\*Mokhtari Hesari P. (2013).\*\* \*Estimation of Transition Probabilities and Hazard Function in Semi-Markov Multi-State Stochastic Processes.\* MSc Thesis, Tehran University of Medical Sciences.
